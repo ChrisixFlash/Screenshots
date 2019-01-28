@@ -1,0 +1,16 @@
+/*
+  screenshots.strings
+
+  Contains the strings used for the App Store screenshots for PDF Viewer.
+*/
+
+"0" = "Accédez à vos documents";
+"1" = "Annotez des documents et des images";
+"2" = "Remplissez des formulaires";
+"3" = "Signez des documents";
+"4" = "Ajoutez, déplacez ou supprimez des pages";
+"5" = "Magnifique mode Nuit";
+"6" = "Puissant éditeur d'annotations";
+"7" = "Options d'affichage flexibles";
+"8" = "Signets accessibles en permanence";
+"9" = "Recherchez rapidement dans vos documents";

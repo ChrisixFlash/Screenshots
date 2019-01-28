@@ -1,0 +1,41 @@
+[
+  {
+    "layers" : [
+      {
+        "file" : "backgrounds\/backgrounds\/$image.png",
+        "frame" : "{{0, 0}, {1536, 2048}}",
+        "rotation" : 0,
+        "title" : "background",
+        "type" : "background"
+      },
+      {
+        "file" : "device_frames\/device_frames\/iPad9.7.png",
+        "frame" : "{{143, -25}, {1250, 1871}}",
+        "rotation" : 0,
+        "title" : "device",
+        "type" : "device"
+      },
+      {
+        "file" : "$language\/iPad Pro (9.7-inch)-$image.png",
+        "frame" : "{{244, 212}, {1048, 1397}}",
+        "rotation" : 0,
+        "title" : "content",
+        "type" : "content"
+      },
+      {
+        "file" : "$language\/screenshots.strings",
+        "fontSize" : 60,
+        "frame" : "{{250, 1475}, {1000, 500}}",
+        "rotation" : 0,
+        "title" : "text",
+        "type" : "text"
+      }
+    ],
+    "outputConfig" : {
+      "fromImageNumber" : 0,
+      "output" : "Export\/$language\/iPad 9.7 - $image.png",
+      "toImageNumber" : 9
+    },
+    "title" : "Update Frame 244 212 | 1048 1397"
+  }
+]

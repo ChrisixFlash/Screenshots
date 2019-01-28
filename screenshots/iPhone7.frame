@@ -1,0 +1,41 @@
+[
+  {
+    "layers" : [
+      {
+        "file" : "backgrounds\/backgrounds\/$image.png",
+        "frame" : "{{0, 0}, {750, 1334}}",
+        "rotation" : 0,
+        "title" : "background",
+        "type" : "background"
+      },
+      {
+        "file" : "device_frames\/device_frames\/iPhone7.png",
+        "frame" : "{{87, 25}, {575, 1150}}",
+        "rotation" : 0,
+        "title" : "device",
+        "type" : "device"
+      },
+      {
+        "file" : "$language\/iPhone 7-$image.png",
+        "frame" : "{{121, 162}, {505, 877}}",
+        "rotation" : 0,
+        "title" : "content",
+        "type" : "content"
+      },
+      {
+        "file" : "$language\/screenshots.strings",
+        "fontSize" : 35,
+        "frame" : "{{60, 800}, {650, 500}}",
+        "rotation" : 0,
+        "title" : "text",
+        "type" : "text"
+      }
+    ],
+    "outputConfig" : {
+      "fromImageNumber" : 0,
+      "output" : "Export\/$language\/iPhone 7 - $image.png",
+      "toImageNumber" : 9
+    },
+    "title" : "Updating File"
+  }
+]

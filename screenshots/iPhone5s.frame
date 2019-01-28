@@ -1,0 +1,41 @@
+[
+  {
+    "layers" : [
+      {
+        "file" : "backgrounds\/backgrounds\/$image.png",
+        "frame" : "{{0, 0}, {640, 1136}}",
+        "rotation" : 0,
+        "title" : "background",
+        "type" : "background"
+      },
+      {
+        "file" : "device_frames\/device_frames\/iPhone5s.png",
+        "frame" : "{{70, 25}, {500, 1000}}",
+        "rotation" : 0,
+        "title" : "device",
+        "type" : "device"
+      },
+      {
+        "file" : "$language\/iPhone 5s-$image.png",
+        "frame" : "{{107, 162}, {431, 721}}",
+        "rotation" : 0,
+        "title" : "content",
+        "type" : "content"
+      },
+      {
+        "file" : "$language\/screenshots.strings",
+        "fontSize" : 30,
+        "frame" : "{{70, 615}, {500, 500}}",
+        "rotation" : 0,
+        "title" : "text",
+        "type" : "text"
+      }
+    ],
+    "outputConfig" : {
+      "fromImageNumber" : 0,
+      "output" : "Export\/$language\/iPhone 5s - $image.png",
+      "toImageNumber" : 9
+    },
+    "title" : "Updating Export Output"
+  }
+]

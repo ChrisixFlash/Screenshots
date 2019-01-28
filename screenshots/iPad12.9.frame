@@ -1,0 +1,41 @@
+[
+  {
+    "layers" : [
+      {
+        "file" : "backgrounds\/backgrounds\/$image.png",
+        "frame" : "{{0, 0}, {2048, 2732}}",
+        "rotation" : 0,
+        "title" : "background",
+        "type" : "background"
+      },
+      {
+        "file" : "device_frames\/device_frames\/iPad12.9.png",
+        "frame" : "{{150, 50}, {1700, 2361}}",
+        "rotation" : 0,
+        "title" : "device",
+        "type" : "device"
+      },
+      {
+        "file" : "$language\/iPad Pro (12.9-inch)-$image.png",
+        "frame" : "{{238, 214}, {1524, 2034}}",
+        "rotation" : 0,
+        "title" : "content",
+        "type" : "content"
+      },
+      {
+        "file" : "$language\/screenshots.strings",
+        "fontSize" : 62,
+        "frame" : "{{250, 2350}, {1500, 300}}",
+        "rotation" : 0,
+        "title" : "text",
+        "type" : "text"
+      }
+    ],
+    "outputConfig" : {
+      "fromImageNumber" : 0,
+      "output" : "Export\/$language\/iPad 12.9 - $image.png",
+      "toImageNumber" : 9
+    },
+    "title" : "Updating Export Output"
+  }
+]

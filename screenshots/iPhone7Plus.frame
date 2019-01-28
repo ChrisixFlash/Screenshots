@@ -1,0 +1,41 @@
+[
+  {
+    "layers" : [
+      {
+        "file" : "backgrounds\/backgrounds\/$image.png",
+        "frame" : "{{0, 0}, {1242, 2208}}",
+        "rotation" : 0,
+        "title" : "background",
+        "type" : "background"
+      },
+      {
+        "file" : "device_frames\/device_frames\/iPhone7Plus.png",
+        "frame" : "{{160, 50}, {922, 1900}}",
+        "rotation" : 0,
+        "title" : "device",
+        "type" : "device"
+      },
+      {
+        "file" : "$language\/iPhone 7 Plus-$image.png",
+        "frame" : "{{216, 265}, {813, 1471}}",
+        "rotation" : 0,
+        "title" : "content",
+        "type" : "content"
+      },
+      {
+        "file" : "$language\/screenshots.strings",
+        "fontSize" : 45,
+        "frame" : "{{121, 900}, {1000, 1200}}",
+        "rotation" : 0,
+        "title" : "text",
+        "type" : "text"
+      }
+    ],
+    "outputConfig" : {
+      "fromImageNumber" : 0,
+      "output" : "Export\/$language\/iPhone 7 Plus - $image.png",
+      "toImageNumber" : 9
+    },
+    "title" : "Updating Color"
+  }
+]

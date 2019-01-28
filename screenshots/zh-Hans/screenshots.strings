@@ -1,0 +1,16 @@
+/*
+  screenshots.strings
+
+  Contains the strings used for the App Store screenshots for PDF Viewer.
+*/
+
+"0" = "访问您的文稿";
+"1" = "文稿和图片批注";
+"2" = "填写表单";
+"3" = "任何文稿签名";
+"4" = "添加、移动或删除页面";
+"5" = "精美夜晚模式";
+"6" = "强大的批注编辑器";
+"7" = "灵活的显示选项";
+"8" = "可随时访问的书签";
+"9" = "快速搜索文稿";

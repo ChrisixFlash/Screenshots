@@ -1,0 +1,16 @@
+/*
+  screenshots.strings
+
+  Contains the strings used for the App Store screenshots for PDF Viewer.
+*/
+
+"0" = "Tilgang til dine diokumenter";
+"1" = "Kommenter dokumenter og billeder";
+"2" = "Udfyld formularer";
+"3" = "Underskriv ethvert dokument";
+"4" = "Tilføj, flyt eller slet sider";
+"5" = "Smagfuldt natudseende";
+"6" = "Stærk kommentareditor";
+"7" = "Fleksible fremvisningsformer";
+"8" = "Altid tilgængelige bogmærker";
+"9" = "Hurtig dokumentsøgning";

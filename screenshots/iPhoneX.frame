@@ -1,0 +1,41 @@
+[
+  {
+    "layers" : [
+      {
+        "file" : "backgrounds\/backgrounds\/$image.png",
+        "frame" : "{{0, 0}, {1125, 2436}}",
+        "rotation" : 0,
+        "title" : "background",
+        "type" : "background"
+      },
+      {
+        "file" : "$language\/iPhone X-$image.png",
+        "frame" : "{{132, 113}, {861, 1885}}",
+        "rotation" : 0,
+        "title" : "content",
+        "type" : "content"
+      },
+      {
+        "file" : "device_frames\/device_frames\/iPhoneX.png",
+        "frame" : "{{62, 50}, {1000, 2000}}",
+        "rotation" : 0,
+        "title" : "device",
+        "type" : "device"
+      },
+      {
+        "file" : "$language\/screenshots.strings",
+        "fontSize" : 60,
+        "frame" : "{{75, 1550}, {1000, 750}}",
+        "rotation" : 0,
+        "title" : "text",
+        "type" : "text"
+      }
+    ],
+    "outputConfig" : {
+      "fromImageNumber" : 0,
+      "output" : "Export\/$language\/iPhone X - $image.png",
+      "toImageNumber" : 9
+    },
+    "title" : "Update Frame 132 113 | 861 1885"
+  }
+]
